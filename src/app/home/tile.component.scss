@@ -1,22 +1,24 @@
 .tile {
     // Styles for the tile
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 30px;
-    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     border: 1px solid black;
     color: black;
     background-color: cyan;
+    align-content: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
 }
-  
 .empty {
     // Styles for the empty space
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 30px;
-    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     border: 1px solid white;
     color: white;
     background-color: white;
 }
-  
